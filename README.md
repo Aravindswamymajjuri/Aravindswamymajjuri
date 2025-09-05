@@ -51,13 +51,13 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=KadariPavani&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="300" height="200">
+      <img src="https://github-readme-stats.vercel.app/api?username=Aravindswamymajjuri&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="300" height="200">
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadariPavani&theme=tokyonight&hide_border=false&layout=compact" width="300" height="200">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindswamymajjuri&theme=tokyonight&hide_border=false&layout=compact" width="300" height="200">
     </td>
           <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KadariPavani&theme=tokyonight&hide_border=false" width="300" height="210">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aravindswamymajjuri&theme=tokyonight&hide_border=false" width="300" height="210">
     </td>
   </tr>
 </table>
