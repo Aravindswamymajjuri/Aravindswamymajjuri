@@ -16,7 +16,7 @@
 ---
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=KadariPavani&theme=react-dark&hide_border=true&area=true) <hr>
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Aravindswamymajjuri&theme=react-dark&hide_border=true&area=true) <hr>
 
 
 ---
