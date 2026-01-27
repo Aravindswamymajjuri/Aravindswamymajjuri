@@ -23,7 +23,7 @@
 
 <h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
-  <a href="[https://www.linkedin.com/in/kadaripavani/](https://www.linkedin.com/in/aravind-swamy-majjuri-9518a9292/" target="_blank">
+  <a href="https://www.linkedin.com/in/aravind-swamy-majjuri-964176305/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Aravindswamymajjuri" target="_blank">
