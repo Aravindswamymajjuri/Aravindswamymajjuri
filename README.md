@@ -8,7 +8,7 @@
 
 <h3 align="center">🌟 About Me</h3>
 <p align="center">
-🎓 34th-Year Computer Science Engineering Student at <strong>KIET</strong> <br>
+🎓 4th-Year Computer Science Engineering Student at <strong>KIET</strong> <br>
 💻 Developed projects in Web Development, AI/ML, and Power BI <br>
 🌱 Currently diving into NLP, Generative AI, and MERN stack technologies  
 </p>
